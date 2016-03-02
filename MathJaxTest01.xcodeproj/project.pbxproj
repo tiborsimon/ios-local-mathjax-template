@@ -13,7 +13,6 @@
 		00AB51B71C78DBF40027F98E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00AB51B61C78DBF40027F98E /* Assets.xcassets */; };
 		00AB51BA1C78DBF40027F98E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00AB51B81C78DBF40027F98E /* LaunchScreen.storyboard */; };
 		00AB51C51C78DBF40027F98E /* MathJaxTest01Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00AB51C41C78DBF40027F98E /* MathJaxTest01Tests.swift */; };
-		00AB51D21C7910BD0027F98E /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 00AB51D11C7910BD0027F98E /* index.html */; };
 		00DC35511C863B8200DA21BB /* MathJax-2.6.1 in Resources */ = {isa = PBXBuildFile; fileRef = 00DC35501C863B8200DA21BB /* MathJax-2.6.1 */; };
 /* End PBXBuildFile section */
 
@@ -38,7 +37,6 @@
 		00AB51C01C78DBF40027F98E /* MathJaxTest01Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MathJaxTest01Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00AB51C41C78DBF40027F98E /* MathJaxTest01Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MathJaxTest01Tests.swift; sourceTree = "<group>"; };
 		00AB51C61C78DBF40027F98E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00AB51D11C7910BD0027F98E /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		00DC35501C863B8200DA21BB /* MathJax-2.6.1 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "MathJax-2.6.1"; path = "Vendor/MathJax-2.6.1"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -63,7 +61,6 @@
 		00AB51A31C78DBF40027F98E = {
 			isa = PBXGroup;
 			children = (
-				00AB51D11C7910BD0027F98E /* index.html */,
 				00AB51AE1C78DBF40027F98E /* MathJaxTest01 */,
 				00AB51C31C78DBF40027F98E /* MathJaxTest01Tests */,
 				00AB51AD1C78DBF40027F98E /* Products */,
@@ -183,7 +180,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00AB51D21C7910BD0027F98E /* index.html in Resources */,
 				00AB51BA1C78DBF40027F98E /* LaunchScreen.storyboard in Resources */,
 				00DC35511C863B8200DA21BB /* MathJax-2.6.1 in Resources */,
 				00AB51B71C78DBF40027F98E /* Assets.xcassets in Resources */,
